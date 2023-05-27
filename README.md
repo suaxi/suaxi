@@ -1,7 +1,7 @@
 #### Hello :wave:
 
 - :man_technologist: I'm a CRUD Big Chief Soldier
-- :house: this is my [blog](https://www.wangchouchou.com)
+- :house: This is my [blog](https://www.wangchouchou.com)
 - :eyes: And here you can see my server status [monitoring](https://bad.wangchouchou.com)
 
 
